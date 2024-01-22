@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Charu Dutt Shukl
+- 👋 Hi, I’m Charu Dutt Shukl @cdsjzr
 - 👀 I’m interested in Computer and its Subseries.
 - 🌱 I’m currently learning IoTs.
 - 💞️ I’m looking to collaborate on ...
